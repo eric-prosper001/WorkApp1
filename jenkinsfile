@@ -1,0 +1,2 @@
+@Library (Ericp-shared-library) _
+etechApp 'https://github.com/eric-prosper001/WorkApp1.git'
